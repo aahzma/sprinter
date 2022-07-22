@@ -1,0 +1,13 @@
+{
+	"build_systems": [
+		{
+			"name": "amd64-win.cmd",
+			"shell_cmd": "amd64-win.cmd"
+		}
+	],
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}
