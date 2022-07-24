@@ -43,8 +43,8 @@
 | 39 | Мікросхема логіки             |               | SN74LS01N             | DIP-14          | TI       | 1         |
 | 40 | Статична пам'ять              | 64 kB         | W24512AK-10           | DIP-32          | Winbond  | 5         |
 | 41 | Флешпам'ять                   | 512 kB        | MX29F040PC-70G        | DIP-32          | Macronix | 1         |
-| 42 | CPLD                          |               | MAX EPM7064STC100-10N | QFP-100 (TQFP)  | Altera   | 1         |
-| 43 | FPGA                          |               | ACEX EP1K30QC208-3    | QFP-208 (MQFP)  | Altera   | 1         |
+| 42 | CPLD                          |               | MAX EPM7064STC100-10N | QFP-100         | Altera   | 1         |
+| 43 | FPGA                          |               | ACEX EP1K30QC208-3    | QFP-208         | Altera   | 1         |
 | 44 | Процесор                      |               | Z84C1516FSC           | QFP-100         | Zilog    | 1         |
 | 45 | Годинник реального часу       |               | DS12887A              | DIP-24          | Maxim    | 1         |
 | 46 | Контролер дискет              |               | MB8877A               | DIP-40          | Fujitsu  | 1         |

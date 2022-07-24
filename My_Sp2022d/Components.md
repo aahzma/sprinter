@@ -325,8 +325,8 @@
 | 321 | U9    | Мікросхема логіки             |                | SN74HC245N            | DIP-20          | TI       |
 | 322 | U10   | Модуль пам'яті                | 4 Mb (8 Mb)    | AS4C1M16E5-60JC (x 4) | SIMM-72         | Alliance |
 | 323 | U11   | Мікросхема логіки             |                | SN74HC245N            | DIP-20          | TI       |
-| 324 | U12   | FPGA                          |                | ACEX EP1K30QC208-3    | QFP-208 (MQFP)  | Altera   |
-| 325 | U13   | CPLD                          |                | MAX EPM7064STC100-10N | QFP-100 (TQFP)  | Altera   |
+| 324 | U12   | FPGA                          |                | ACEX EP1K30QC208-3    | QFP-208         | Altera   |
+| 325 | U13   | CPLD                          |                | MAX EPM7064STC100-10N | QFP-100         | Altera   |
 | 326 | U14   | Флешпам'ять                   | 512 kB         | MX29F040PC-70G        | DIP-32          | Macronix |
 | 327 | U14.1 | Рознім                        | SCSL-16        | DS1002-01-40          |                 | Connfly  |
 | 328 | U14.2 | Рознім                        | SCSL-16        | DS1002-01-40          |                 | Connfly  |
