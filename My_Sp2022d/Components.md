@@ -50,7 +50,7 @@
 | 46  | C47   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 47  | C48   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 48  | C49   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 49  | C50   | Конденсатор танталовий        | 4.7 x 20 V     | TAJA475K020RNJ        | 1206            | AVX      |
+| 49  | C50   | Конденсатор танталовий        | 4.7 x 20 V     | TAJA475K020RNJ        | 1206 (Type A)   | AVX      |
 | 50  | C51   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 51  | C52   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 52  | C53   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
