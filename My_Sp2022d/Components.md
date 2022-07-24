@@ -8,8 +8,8 @@
 | 4   | C4    | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 5   | C6    | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 6   | C7    | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 7   | C8    | Конденсатор                   | 22 x 20 V      | ERS220M20B            | 6.3 x 6 mm      | Hitano   |
-| 8   | C9    | Конденсатор                   | 22 x 20 V      | ERS220M20B            | 6.3 x 6 mm      | Hitano   |
+| 7   | C8    | Конденсатор полімерний        | 22 x 20 V      | ERS220M20B            | 6.3 x 6 mm      | Hitano   |
+| 8   | C9    | Конденсатор полімерний        | 22 x 20 V      | ERS220M20B            | 6.3 x 6 mm      | Hitano   |
 | 9   | C10   | Конденсатор                   | 330            | CL21B331KBANNNC       | 0805            | Samsung  |
 | 10  | C11   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 11  | C12   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
@@ -18,16 +18,16 @@
 | 14  | C15   | Конденсатор                   | 3300           | CL21B332KBANNNC       | 0805            | Samsung  |
 | 15  | C16   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 16  | C17   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 17  | C18   | Конденсатор                   | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
-| 18  | C19   | Конденсатор                   | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
+| 17  | C18   | Конденсатор полімерний        | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
+| 18  | C19   | Конденсатор полімерний        | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
 | 19  | C20   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 20  | C21   | Конденсатор                   | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
+| 20  | C21   | Конденсатор полімерний        | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
 | 21  | C22   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 22  | C23   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 23  | C24   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 24  | C25   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 25  | C26   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 26  | C27   | Конденсатор                   | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
+| 26  | C27   | Конденсатор полімерний        | 56 x 20 V      | ERS560M20B            | 6.3 x 11 mm     | Hitano   |
 | 27  | C28   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 28  | C29   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 29  | C30   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
@@ -50,7 +50,7 @@
 | 46  | C47   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 47  | C48   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 48  | C49   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
-| 49  | C50   | Конденсатор                   | 4.7 x 20 V     | TAJA475K020RNJ        | 1206            | AVX      |
+| 49  | C50   | Конденсатор танталовий        | 4.7 x 20 V     | TAJA475K020RNJ        | 1206            | AVX      |
 | 50  | C51   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 51  | C52   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
 | 52  | C53   | Конденсатор                   | 0.1            | CL21B104KCFNNNE       | 0805            | Samsung  |
